@@ -1,7 +1,7 @@
 package students.logic;
 
 /**
- * Created by Андрій on 25.05.2017.
+ * Created by Андрій on 27.05.2017.
  */
 public class Group {
     private int groupId;
