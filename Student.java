@@ -3,7 +3,7 @@ package students.logic;
 import java.text.DateFormat;
 import java.util.Date;
 /**
- * Created by Андрій on 25.05.2017.
+ * Created by Андрій on 27.05.2017.
  */
 public class Student {
     private int studentId;
