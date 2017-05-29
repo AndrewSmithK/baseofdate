@@ -15,7 +15,7 @@ import java.util.List;
 import java.util.TreeSet;
 
 /**
- * Created by Андрій on 25.05.2017.
+ * Created by Андрій on 27.05.2017.
  */
 public class ManagementSystem {
     private List<Group> groups;
